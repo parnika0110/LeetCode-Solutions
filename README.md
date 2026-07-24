@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -88,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
