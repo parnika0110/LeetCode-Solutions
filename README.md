@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1920-build-array-from-permutation](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
