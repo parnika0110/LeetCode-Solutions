@@ -64,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3024-type-of-triangle](https://github.com/parnika0110/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3024-type-of-triangle](https://github.com/parnika0110/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2119-a-number-after-a-double-reversal](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3024-type-of-triangle](https://github.com/parnika0110/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
