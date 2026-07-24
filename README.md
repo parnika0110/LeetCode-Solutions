@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 ## Sorting
 |  |
 | ------- |
