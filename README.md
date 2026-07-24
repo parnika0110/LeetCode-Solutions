@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2119-a-number-after-a-double-reversal](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2235-add-two-integers](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
