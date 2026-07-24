@@ -41,15 +41,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Array
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 ## Sorting
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
