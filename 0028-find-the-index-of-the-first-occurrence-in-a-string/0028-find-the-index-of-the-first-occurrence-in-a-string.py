@@ -1,11 +1,11 @@
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
         for i in range(len(haystack) - len(needle) + 1):
-            matched = True
+            match = True
             for j in range(len(needle)):
-                if haystack[i+j] != needle[j]:
-                    matched = False
+                if haystack[i + j] != needle[j]:
+                    match = False
                     break
-            if matched == True:
+            if match == True:
                 return i
         return -1
