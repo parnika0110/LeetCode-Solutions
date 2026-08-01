@@ -11,3 +11,4 @@ class Solution:
             else:
                 ans[i] = False
         return ans
+                
