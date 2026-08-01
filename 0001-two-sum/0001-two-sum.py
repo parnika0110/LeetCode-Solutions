@@ -5,9 +5,6 @@ class Solution:
             current = nums[i]
             needed = target - current
             if needed in seen:
-                return i, seen[needed]
+                return i , seen[needed]
             else:
-                seen[current] = i 
-
-
-
+                seen[current]= i
