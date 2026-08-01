@@ -5,6 +5,6 @@ class Solution:
             if i * i == x:
                 return i
             i += 1
-        return i -1
+        return i - 1
 
             
