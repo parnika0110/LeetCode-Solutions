@@ -6,12 +6,9 @@ class Solution:
             if num - 1 not in num_set:
                 current = num
                 length = 1
-
                 while current + 1 in num_set:
                     current += 1
                     length += 1
-
                 if length > longest:
                     longest = length
-
         return longest
