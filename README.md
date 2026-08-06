@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
