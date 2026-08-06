@@ -11,4 +11,3 @@ class Solution:
                 count2[char] = 0
             count2[char] += 1
         return count1 == count2
-        
