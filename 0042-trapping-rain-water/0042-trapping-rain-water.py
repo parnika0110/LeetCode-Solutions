@@ -2,7 +2,7 @@ class Solution:
     def trap(self, height: List[int]) -> int:
         water = 0
         left = 0
-        right = len(height) - 1
+        right= len(height) - 1
         left_max = 0
         right_max = 0
         while left < right:
