@@ -12,5 +12,3 @@ class Solution:
                 n //= 10
             n = total
         return True
-
-
