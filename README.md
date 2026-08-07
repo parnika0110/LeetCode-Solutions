@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
