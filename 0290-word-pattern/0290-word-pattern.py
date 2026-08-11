@@ -1,10 +1,8 @@
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
         words = s.split()
-
-        if len(pattern) != len(words):
+        if len(words) != len(pattern):
             return False
-
         char_to_word = {}
         word_to_char = {}
 
@@ -14,11 +12,10 @@ class Solution:
                     return False
             else:
                 char_to_word[c] = w
-
+            
             if w in word_to_char:
                 if word_to_char[w] != c:
                     return False
             else:
                 word_to_char[w] = c
-
         return True
