@@ -8,6 +8,4 @@ class Solution:
                 right -= 1
         reverse(nums, 0, len(nums) - 1)
         reverse(nums, 0, k - 1)
-        reverse(nums, k, len(nums) - 1)
-
-        
+        reverse(nums, k , len(nums) - 1)
