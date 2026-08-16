@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2029-stone-game-ix](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2029-stone-game-ix](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2029-stone-game-ix](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2029-stone-game-ix](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -283,4 +287,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
