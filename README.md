@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/parnika0110/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3024-type-of-triangle](https://github.com/parnika0110/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/parnika0110/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/parnika0110/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/parnika0110/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
