@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3024-type-of-triangle](https://github.com/parnika0110/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/parnika0110/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parnika0110/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
