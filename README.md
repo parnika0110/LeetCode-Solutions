@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1872-stone-game-viii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1872-stone-game-viii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [1872-stone-game-viii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Number Theory
 |  |
@@ -307,10 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -320,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
