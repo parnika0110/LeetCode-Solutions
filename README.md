@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0392-is-subsequence) |
