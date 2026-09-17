@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/parnika0110/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/parnika0110/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parnika0110/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parnika0110/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/parnika0110/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
