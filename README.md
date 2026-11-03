@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0274-h-index) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/parnika0110/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parnika0110/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
